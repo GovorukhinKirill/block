@@ -1,0 +1,48 @@
+div {
+    
+width: 400px;
+height: 400px;
+background-color:aqua ;
+}
+header{
+    background-color: darkcyan;
+    height: 150px;
+}
+main{
+    background-color: black;
+    height: 600px;
+}
+footer{
+    background-color: blue;
+    height: 400px;
+}
+h1{
+    text-align: center;
+padding-top: 50px;
+margin-top: 20px;
+}
+button{
+    background-color: black;
+    margin-top: 30px;
+padding: 50px;
+background-color: rgb(37, 207, 82);
+}
+.push{
+    color: rgb(228, 231, 230);
+}
+a{
+    text-decoration: none;
+}
+.cpicok{
+    font-size: 35px;
+    color: rgb(32, 194, 167);
+}
+.spisok{
+    color:aquamarine;
+    background-color: beige;
+    font-size: 30px;
+}
+.hover:hover{
+    color: palevioletred;
+}
+
